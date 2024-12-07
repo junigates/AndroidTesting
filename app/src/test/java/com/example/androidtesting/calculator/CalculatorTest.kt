@@ -22,6 +22,15 @@ class CalculatorTest{
 
     }
 
+
+    @Test
+    fun multiply2Numbers(){
+        val calculator = mock<Calculator> {  }
+        Mockito.`when`(calculator.multiply(4,5)).thenReturn(4)
+        val result = calculator.multiply(4,5)
+        Assert.assertEquals(result,4)
+    }
+
     @Test
     fun subtract2Numbers(){
 
