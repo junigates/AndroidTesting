@@ -2,6 +2,8 @@ package com.example.androidtesting.calculator
 
 class Calculator {
 
+    //junigates
+
     fun add(x: Int, y: Int): Int {
         return x + y
     }
