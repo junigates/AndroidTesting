@@ -6,11 +6,8 @@ class Calculator {
     //ok
     //done
     //testing
-<<<<<<< HEAD
     //juni
-=======
     //mockito
->>>>>>> mockito-testing
 
     fun add(x: Int, y: Int): Int {
         return x + y
