@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1,
+    "name": "Ali Ahmed",
+    "marks": 85
+  },
+  {
+    "id": 2,
+    "name": "Sara Khan",
+    "marks": 92
+  },
+  {
+    "id": 3,
+    "name": "Hassan Raza",
+    "marks": 78
+  },
+  {
+    "id": 4,
+    "name": "Ayesha Tariq",
+    "marks": 88
+  },
+  {
+    "id": 5,
+    "name": "Zainab Ali",
+    "marks": 95
+  }
+]
